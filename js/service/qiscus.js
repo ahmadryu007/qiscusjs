@@ -5,7 +5,7 @@ define(['service/emitter'], function (emitter) {
   var Qiscus = QiscusSDKCore;
   var qiscus = new QiscusSDKCore();
 
-  var appId = 'sdksample';
+  var appId = 'kawan-seh-g857ffuuw9b';
   // var appId = 'dragongo'
   // var appId = 'apptest-parvvzx2tq0si'
 
